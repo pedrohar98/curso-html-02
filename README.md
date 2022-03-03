@@ -1,13 +1,21 @@
 # README
 
-<p>PROJETO-SITE-O2</p>
+## PROJETO-SITE-O2
 
-- [Sobre:](#Sobre)
-- [Referência:](#Referência)
+- [Sobre:](#Sobre:)
+- [Referência:](#Referência:)
+- [Features:](#Features:)
 
-# Sobre
+### Sobre:
 
-# Referência
+### Referência:
+
+### Features:
+- [  ] Configuração Git Bash.
+- [  ] Baixar projeto-base.
+- [  ] Desenvolimento do projeto.
+- [  ] Finalização do projeto.
+- [  ] Configuração projeto-site-02.gif.
 
 ---
 
