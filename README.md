@@ -7,6 +7,7 @@
 - [Features:](#Features:)
 
 ### Sobre:
+<<<<<<< HEAD
 Desenvolvimento de landing page com HTML e CSS.
 
 ### Referência:
