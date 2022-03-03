@@ -11,7 +11,7 @@
 ### Referência:
 
 ### Features:
-- [  ] Configuração Git Bash.
+- [ x ] Configuração Git Bash.
 - [  ] Baixar projeto-base.
 - [  ] Desenvolimento do projeto.
 - [  ] Finalização do projeto.
