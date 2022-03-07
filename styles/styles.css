@@ -20,6 +20,10 @@ header{
 h1{
     font-weight: 200;
 }
+li{
+    display: inline-block;
+    margin: 20px;
+}
 
 main{
     display: flex;
