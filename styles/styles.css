@@ -24,6 +24,23 @@ li{
     display: inline-block;
     margin: 20px;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(132, 14, 201);
+    transition: 0.3s all;
+}
+#inscreva-se-btn{
+    border: 2px solid rgb(132, 14, 201);
+    border-radius: 15px;
+    padding: 10px;
+}
+#inscreva-se-btn:hover{
+    background-color: rgb(132, 14, 201);
+    color: white;
+}
 
 main{
     display: flex;
