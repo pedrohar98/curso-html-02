@@ -14,10 +14,12 @@ Alexandre Saints: https://www.youtube.com/watch?v=edDCEK5QWE8
 
 ### Features:
 - [x] Configuração Git Bash.
-- [] Desenvolimento do projeto.
-- [] Finalização do projeto.
-- [] Configuração projeto-site-02.gif.
+- [x] Desenvolimento do projeto.
+- [x] Finalização do projeto.
+- [x] Configuração projeto-site-02.gif.
 
 ---
 
-<h4>Projeto em desenvolvimento.</h4>
+<h1 align="center">
+    <img alt="projeto-site-02" title="projeto-site-02" src="./components/gif/projeto-site-02.gif">
+</h1>
